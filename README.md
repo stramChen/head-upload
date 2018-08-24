@@ -1,7 +1,7 @@
 # head-upload（头像上传组件）
 
 效果图:
-![效果图](./img/des.gif "description")
+<img src="./img/des.gif"  height="530" width="320">
 
 说明:
 1. 系统头像上传组件,调用系统原生的拍照和裁剪功能，利用了一个透明的Activity的上面浮了一层Dialog。来实现组件的封装。
